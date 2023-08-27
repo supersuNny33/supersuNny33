@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Hello! I'm Sunny Yadav, a dedicated and enthusiastic third-year B.Tech in Artificial Intelligence and Data Science student with a strong passion for development.<br><br>I absolutely love coding, data science, and AI because they allow me to transform my ideas into tangible creations. There's a certain thrill in writing lines of code and seeing them come to life, whether it's a<br>simple program or a complex algorithm. The power to automate tasks, analyze large datasets, and make predictions is fascinating to me.
 
@@ -19,8 +18,4 @@ Hello! I'm Sunny Yadav, a dedicated and enthusiastic third-year B.Tech in Artifi
 ---
 [![](https://visitcount.itsvg.in/api?id=supersuNny33&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!---
-supersuNny33/supersuNny33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
