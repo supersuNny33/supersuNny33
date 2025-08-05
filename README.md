@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Sunny Yadav, a dedicated and enthusiastic third-year B.Tech in Artificial Intelligence and Data Science student with a strong passion for development.<br><br>I absolutely love coding, data science, and AI because they allow me to transform my ideas into tangible creations. There's a certain thrill in writing lines of code and seeing them come to life, whether it's a<br>simple program or a complex algorithm. The power to automate tasks, analyze large datasets, and make predictions is fascinating to me.
+Hello! I'm Sunny Yadav, fourth-year B.Tech in Artificial Intelligence and Data Science @Thakur College of Enginnering.(AI enthusiast specializing in machine learning and data science)<br><br>My ultimate goal is to leverage data to solve real-world problems and contribute to meaningful innovation. I'm always eager to learn from others and collaborate on projects that push the boundaries of what's possible with AI. Feel free to explore my repositories and connect with me if you share a similar interest in the exciting world of AI and data.
 
 
 ## 🌐 Socials:
