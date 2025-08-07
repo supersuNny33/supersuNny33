@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Sunny Yadav, fourth-year B.Tech in Artificial Intelligence and Data Science @Thakur College of Enginnering.(AI enthusiast specializing in machine learning and data science)<br><br>My ultimate goal is to leverage data to solve real-world problems and contribute to meaningful innovation. I'm always eager to learn from others and collaborate on projects that push the boundaries of what's possible with AI. Feel free to explore my repositories and connect with me if you share a similar interest in the exciting world of AI and data.
+Hello! I'm Sunny Yadav, fourth-year B.Tech in Artificial Intelligence and Data Science @Thakur College of Enginnering.<br>(AI enthusiast specializing in machine learning and data science)<br><br>My ultimate goal is to leverage data to solve real-world problems and contribute to meaningful innovation. I'm always eager to learn from others and collaborate on projects that push the boundaries of what's possible with AI. Feel free to explore my repositories and connect with me if you share a similar interest in the exciting world of AI and data.
 
 
 ## 🌐 Socials:
